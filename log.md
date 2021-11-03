@@ -23,4 +23,14 @@
 <hr>
 
 
+### Day 3: November 3, 2021
+
+**Today's Progress**: Learn't about ifelse, switch, loops and functions in golang.
+
+**Thoughts:** Loops are insane in golang, for is for everything.
+**Link to work:** 
+1. [Commit 1](https://github.com/budhirajamadhav/learn-golang/commit/b10b41f079e3ebf44e5814e3166870000ccdb965)
+<hr>
+
+
 
