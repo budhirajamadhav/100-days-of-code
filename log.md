@@ -33,4 +33,14 @@
 <hr>
 
 
+### Day 4: November 4, 2021
+
+**Today's Progress**: Learn't about methods, handling files and defer keyword in golang.
+
+**Thoughts:** These are important and to be revised stuff. Done with the syntactical basics today and starting with webrequests tomorrow, I could've started today but sinus trigger(I'm coming Dr.) and Diwali pollution came in and ruined the day. Doesn't matter if I did less, I did and that matters.
+**Link to work:** 
+1. [Commit 1](https://github.com/budhirajamadhav/learn-golang/commit/db2c2ff1272455a2dc90aecfcd3ee12462ada654)
+<hr>
+
+
 
