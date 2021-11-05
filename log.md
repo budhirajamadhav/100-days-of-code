@@ -42,5 +42,14 @@
 1. [Commit 1](https://github.com/budhirajamadhav/learn-golang/commit/db2c2ff1272455a2dc90aecfcd3ee12462ada654)
 <hr>
 
+### Day 5: November 5, 2021
+
+**Today's Progress**: Learn't about handling URLs, webrequests in golang.
+
+**Thoughts:** It was not a piece of cake to learn about these webrequests but prior knowledge helped and some important stuff like parsing response into string and **why should we close the connection were acknowledged**.
+**Link to work:** 
+1. [Commit 1](https://github.com/budhirajamadhav/learn-golang/commit/ecbfc2cb56210ad471460f439238d313b4f41889)
+<hr>
+
 
 
