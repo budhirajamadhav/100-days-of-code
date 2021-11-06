@@ -52,4 +52,17 @@
 <hr>
 
 
+### Day 6: November 6, 2021
+
+**Today's Progress**: Learn't about creating and consuming JSON in golang.
+
+**Thoughts:** Learn't many new things today, like json aliases in structs, how to marshal and unmarshal data, unmarshal in a struct or just key value pairs, interface{}.
+
+![image](https://user-images.githubusercontent.com/73742540/140626936-a562017e-8fe3-44bf-be2b-5d55d5fce738.png)
+
+**Link to work:** 
+1. [Commit 1](https://github.com/budhirajamadhav/learn-golang/commit/a9e3e4494d46cd9436083767d900229923ceba51)
+<hr>
+
+
 
