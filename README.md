@@ -65,4 +65,15 @@
 <hr>
 
 
+### Day 7: November 7, 2021
+
+**Today's Progress**: Learn't about mod and building apis in golang with mux.
+
+**Thoughts:** It was a big day today and I realised for how long you sit, the more gets done but from past experiences, jyada bhi hanikarak hai + agr thoda bhi kia toh that's ok.
+
+**Link to work:** 
+1. [Commit 1](https://github.com/budhirajamadhav/learn-golang/commit/abe15e461a367e9e44b22c58ba21a32bea32d396)
+<hr>
+
+
 
