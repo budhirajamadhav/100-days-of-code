@@ -76,4 +76,26 @@
 <hr>
 
 
+### Day 8: November 8, 2021
+
+**Today's Progress**: Was on off for a day, had major sinus trigger.
+
+**Thoughts:** Sinus trigger.
+
+<hr>
+
+
+
+### Day 9: November 9, 2021
+
+**Today's Progress**: Learn't about how to connect mongo with golang and how to do insert operation.
+
+**Thoughts:** Also explored more about cluster API and will try to go deep and contribute into it.
+
+**Link to work:** 
+1. [Commit 1](https://github.com/budhirajamadhav/learn-golang/commit/89a75941c8f34a997a568db92fd2e11ed7cec920)
+2. [Commit 2](https://github.com/budhirajamadhav/learn-golang/commit/0edbe4ece328840a6f3888bca14a12708d3c496b)
+<hr>
+
+
 
