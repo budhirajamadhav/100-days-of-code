@@ -99,3 +99,16 @@
 
 
 
+
+### Day 10: November 10, 2021
+
+**Today's Progress**: Couldn't do much coz had to go somewhere, could've avoided it. Saw how to do the update operation, went into solving an issue in cluster-api.
+
+**Thoughts:** Will be on a pause for 2-3 days due to medical reasons.
+
+**Link to work:** 
+1. [Commit 1](https://github.com/budhirajamadhav/learn-golang/commit/a8c825d170039158335cbc51fb75df6df45390ed)
+<hr>
+
+
+
